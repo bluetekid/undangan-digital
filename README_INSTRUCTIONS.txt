@@ -1,0 +1,1 @@
+Open README.md for instructions. Run `npm install` then `npm run dev`.

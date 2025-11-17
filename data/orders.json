@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "dimas-salsa",
+    "nama_pria": "Dimas",
+    "nama_wanita": "Salsa",
+    "template": "brown"
+  },
+  {
+    "slug": "dika-tika",
+    "nama_pria": "Dika",
+    "nama_wanita": "Tika",
+    "template": "navy"
+  },
+  {
+    "slug": "dandi-jand",
+    "nama_pria": "dandi",
+    "nama_wanita": "janda",
+    "template": "burgundy"
+  },
+  {
+    "slug": "yudi-ceweknya",
+    "nama_pria": "yudi",
+    "nama_wanita": "ceweknya",
+    "template": "navy"
+  }
+]
